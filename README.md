@@ -5,7 +5,7 @@ Ahmad here. I am a PhD student at the Institute of Advanced Simulation – Mater
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on the ontology development especially in materials science and engineering domain, e.g., [DISOS](https://github.com/Materials-Data-Science-and-Informatics/Dislocation-Ontology-Suite) and [PRIMA](https://github.com/Materials-Data-Science-and-Informatics/MDMC-NEP-top-level-ontology)
-- 🌱 I’m currently learning Natural Language Processing (NLP) on to process the materials science related publications and text.
+- 🌱 I’m currently learning Natural Language Processing (NLP) on processing the materials science related publications and text.
 - 👯 I’m looking to collaborate on the ontology development, materials science related ontology development, and [PRIMA](https://github.com/Materials-Data-Science-and-Informatics/MDMC-NEP-top-level-ontology) use cases. 
 - 🤔 I’m looking for help with NLP as I just started to learn this field. 
 - 💬 Ask me about ontology, dislocation in crystalline materials, and a bit of NLP.
