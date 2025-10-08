@@ -10,4 +10,4 @@ Here are some ideas to get you started:
  
 - 💬 Ask me about ontology, dislocation in crystalline materials, semantic web technologies, NLP, LLMs, and **agentic AI systems**.
 - 📫 How to reach me: a.ihsan@fz-juelich.de
-- ⚡ Fun fact: I play guitar 🎸  and go cycling/bike trip 🚴‍♂️ a lot
+- ⚡ Fun fact: I play guitar 🎸  and go cycling/bike trip 🚴‍♂️ a lot. Currently preparing for the first full marathon.
